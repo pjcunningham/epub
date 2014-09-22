@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EPUB", "EPUB\EPUB.csproj", "{98491416-EA00-4E14-869A-151F5A919B54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EPUBConsoleApplication", "EPUBConsoleApplication\EPUBConsoleApplication.csproj", "{9B216A45-E3B7-42C0-97DB-067EB3C0D540}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98491416-EA00-4E14-869A-151F5A919B54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98491416-EA00-4E14-869A-151F5A919B54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98491416-EA00-4E14-869A-151F5A919B54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98491416-EA00-4E14-869A-151F5A919B54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B216A45-E3B7-42C0-97DB-067EB3C0D540}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B216A45-E3B7-42C0-97DB-067EB3C0D540}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B216A45-E3B7-42C0-97DB-067EB3C0D540}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B216A45-E3B7-42C0-97DB-067EB3C0D540}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
